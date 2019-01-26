@@ -1,2 +1,2 @@
 # new-repo
-my repository
+this is a repository
