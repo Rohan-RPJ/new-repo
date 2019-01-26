@@ -1,2 +1,2 @@
 # new-repo
-just a repository
+a repository
